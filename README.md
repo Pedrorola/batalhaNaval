@@ -25,16 +25,3 @@ Este projeto implementa a base de um jogo de Batalha Naval em linguagem C para a
 - `0`: Água  
 - `3`: Navio  
 
-## Como Compilar
-```bash
-gcc batalha_naval.c -o batalha_naval
-Como Executar
-bash
-./batalha_naval
-
-
-
-Requisitos do Sistema
-Compilador C compatível com C99 ou superior
-
-Terminal que suporte exibição básica de caracteres
